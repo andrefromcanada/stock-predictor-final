@@ -1,0 +1,43 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .ticker-searcher {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .ticker-input {
+    margin-bottom: 10px;
+  }
+  
+  .top-line{
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+
+  }
+
+  .lable-house {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 60px;
+  }
+  
+
+  .submit-value-button{
+    width: 65px;
+    height: 23px;
+    background-color: black;
+    color: white;
+    border: none;
+  }
+
+  .submit-value-button{
+    cursor: pointer;
+  }

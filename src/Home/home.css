@@ -1,0 +1,24 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+
+
+}
+
+.instructions-container {
+  margin-top: 1rem;
+  text-align: left;
+}
+
+ol {
+  list-style-type: decimal;
+  margin-left: 2rem;
+  padding-left: 1rem;
+  font-size: 1.5rem;
+}
+
+.grey-box{
+  background-color: grey;
+}

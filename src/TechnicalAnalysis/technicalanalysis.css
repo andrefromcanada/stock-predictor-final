@@ -1,0 +1,17 @@
+form{
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.technical-indicator-button{
+  width: 180px;
+  height: 23px;
+  background-color: black;
+  color: white;
+  border: none;
+}
+
+.technical-indicator-button:hover{
+  cursor: pointer;
+}
