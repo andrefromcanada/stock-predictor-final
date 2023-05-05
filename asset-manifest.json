@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/stock-predictor-final/static/css/main.dd06112b.css",
+    "main.js": "/stock-predictor-final/static/js/main.efe9531e.js",
+    "static/media/PEG Finding.pdf": "/stock-predictor-final/static/media/PEG Finding.e2316a5cdf18fcd54823.pdf",
+    "static/media/Finding Data-2.xlsx": "/stock-predictor-final/static/media/Finding Data-2.24644e52870918555118.xlsx",
+    "index.html": "/stock-predictor-final/index.html",
+    "main.dd06112b.css.map": "/stock-predictor-final/static/css/main.dd06112b.css.map",
+    "main.efe9531e.js.map": "/stock-predictor-final/static/js/main.efe9531e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd06112b.css",
+    "static/js/main.efe9531e.js"
+  ]
+}
